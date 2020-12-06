@@ -1,5 +1,7 @@
 # Flask Project
 
+Started a Flask Python project to learn web application using Flask and Python
+
 Tutorial by Corey Schafer <br>
 [Part 1](https://www.youtube.com/watch?v=MwZwr5Tvyxo)  <br>
 [Part 2](https://www.youtube.com/watch?v=QnDWIZuWYW0) <br>
